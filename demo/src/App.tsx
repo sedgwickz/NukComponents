@@ -1,10 +1,10 @@
-import React, { useState } from 'react'
+import React from 'react'
 import TextInput from '@sedgwickz/lib2'
-export default () => {
-  const [state, setState] = useState(1)
-  return (
-    <div>
-      <TextInput />
-    </div>
-  )
+const App: React.FC = () => {
+    return (
+        <div>
+            <TextInput />
+        </div>
+    )
 }
+export default App
