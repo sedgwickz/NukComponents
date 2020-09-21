@@ -1,6 +1,6 @@
 {
   "name": "@sedgwickz/lib2",
-  "version": "0.0.2",
+  "version": "0.0.3-alpha.0+21e273b",
   "main": "src/Index.tsx",
   "types": "dist/Index.d.ts",
   "files": [
@@ -34,5 +34,5 @@
     "react": "^16.13.1",
     "styled-components": "^5.2.0"
   },
-  "gitHead": "74adf615ada4afb4a95cc8b14dd1bb83bfa84b01"
+  "gitHead": "21e273bac5fc43f291f9190719375b005ad652c2"
 }
