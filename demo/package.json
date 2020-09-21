@@ -1,6 +1,6 @@
 {
   "name": "demo",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "private": true,
@@ -25,8 +25,8 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "@sedgwickz/lib1": "^1.0.0",
-    "@sedgwickz/lib2": "^1.0.1",
+    "@sedgwickz/lib1": "^0.0.1",
+    "@sedgwickz/lib2": "^0.0.1",
     "react-dom": "^16.13.1"
   }
 }
