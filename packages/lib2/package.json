@@ -1,6 +1,6 @@
 {
   "name": "@sedgwickz/lib2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "src/Index.tsx",
   "types": "dist/Index.d.ts",
   "files": [
