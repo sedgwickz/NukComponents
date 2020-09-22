@@ -1,5 +1,7 @@
 import React from 'react'
 
-export default function Hello() {
+const Hello: React.FC = () => {
     return <div>111</div>
 }
+
+export default Hello
