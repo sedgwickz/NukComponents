@@ -18,9 +18,13 @@
     "@typescript-eslint/eslint-plugin": "^4.1.1",
     "@typescript-eslint/parser": "^4.1.1",
     "eslint": "^7.9.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.6",
     "husky": "^4.3.0",
     "lerna": "^3.22.1",
-    "lint-staged": "^10.4.0"
+    "lint-staged": "^10.4.0",
+    "prettier": "^2.1.2"
   },
   "husky": {
     "hooks": {

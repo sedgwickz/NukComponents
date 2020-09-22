@@ -1,8 +1,8 @@
 import React, { useState, useRef } from 'react'
-import { Editor, EditorState, RichUtils, convertToRaw } from 'draft-js'
+import { Editor, EditorState } from 'draft-js'
 import * as bootstrap from '@styled-icons/bootstrap'
 
-export default () => {
+const TextBox: React.FC = () => {
     const [editorState, setEditorState] = useState(EditorState.createEmpty())
     const editorRef = useRef(null)
 
@@ -16,7 +16,7 @@ export default () => {
 
     return (
         <div>
-            编辑器
+            ??
             <div>
                 <bootstrap.TypeBold />
             </div>
@@ -35,3 +35,5 @@ export default () => {
         </div>
     )
 }
+
+export default TextBox
